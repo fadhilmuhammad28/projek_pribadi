@@ -9,7 +9,7 @@ Sistem manajemen parkir berbasis **Laravel** dengan fitur lengkap:
 - **Laporan Keuangan** 📈: Grafik harian/mingguan/bulanan (admin only)
 - **Pengaturan Tarif** ⚙️: Konfigurasi tarif per jenis kendaraan (admin only)
 - **Panel Admin** 🛠️: CRUD ticket/user, edit status/biaya
-- **Struk QR Code** 🖨️: Print receipt entry/exit
+- **Struk Barcode** 🖨️: Print receipt entry/exit
 - **Dark Mode** 🌙: Responsive Tailwind CSS
 
 ## 🛠️ Tech Stack
